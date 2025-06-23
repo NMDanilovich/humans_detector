@@ -1,0 +1,8 @@
+jupyterlab
+seaborn
+requests
+pandas
+torch
+torchvision
+opencv-python
+

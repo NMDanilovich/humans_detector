@@ -1,0 +1,14 @@
+# python
+.venv
+__pycache__
+
+# widths
+*.pt
+*.onnx
+*.engine
+
+# new video
+*.avi
+
+# task
+*.docx
